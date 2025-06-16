@@ -1,0 +1,14 @@
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\bin\Debug\net8.0\ObserverPatternDelegates.exe
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\bin\Debug\net8.0\ObserverPatternDelegates.deps.json
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\bin\Debug\net8.0\ObserverPatternDelegates.runtimeconfig.json
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\bin\Debug\net8.0\ObserverPatternDelegates.dll
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\bin\Debug\net8.0\ObserverPatternDelegates.pdb
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.AssemblyInfoInputs.cache
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.AssemblyInfo.cs
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.dll
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\refint\ObserverPatternDelegates.dll
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.pdb
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ObserverPatternDelegates.genruntimeconfig.cache
+C:\Users\leonardo.gideao\dev\projects\DesignPatterns\ObserverPatternDelegates\obj\Debug\net8.0\ref\ObserverPatternDelegates.dll
